@@ -16,11 +16,5 @@ one will be pictures etc.
 
 
 
-{% highlight <c++> %} 
-
-int main()
-{
-}
-{% endhighlight %}
 
 #cpp
